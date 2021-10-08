@@ -1,6 +1,3 @@
-
-[English]("https://github.com/Mochengvia/Mochengvia/blob/main/readme.en-US.md")
-
 # 欢迎 !
 
 ## 在寻找Panuon.UI.Silver吗？
@@ -25,6 +22,6 @@ Panuon具有丰富的行业开发经验，例如动环监控、工业行业MES�
 大多数时候，我们都只接受非个人目的(例如店铺、企业等)的全新系统开发工作，开发一个完整的系统仅需数万元起(视开发难度和工作量确定)。  
 如果您希望商业洽谈，或浏览我们曾经开发过的软件案例，可以通过以下任意一种方式来与我取得联系(添加好友请注明来意，否则会被拒绝)。 
 
-QQ：969954321
-邮箱：mochengvia@panuon.com
-微信：mochengvia
+QQ：969954321  
+邮箱：mochengvia@panuon.com  
+微信：mochengvia  
