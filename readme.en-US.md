@@ -1,4 +1,4 @@
-## [简体中文]("https://github.com/Mochengvia")
+[简体中文]("https://github.com/Mochengvia")
 
 # 欢迎 !
 
