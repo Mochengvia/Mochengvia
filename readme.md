@@ -8,9 +8,9 @@
 预热中。欢迎前来关注正在开发的Panuon Workshop，一款低代码化的前端设计平台（商业软件）。
 https://github.com/PanuonInc/PanuonWorkshop
 
-## 欢迎加入Panuon开发者社区！
+## 欢迎加入Panuon.UI.Silver群聊！
 社区仍在建设中。可以使用表情包，可以闲聊，也可以推广自己的开源作品，但禁止在群内发送涉及政治敏感、非法信息、广告或令人反感的文本或图片。  
-QQ群：718778191
+QQ群：868673274
 
 ## 在寻找Panuon.UI.Silver吗？
 
