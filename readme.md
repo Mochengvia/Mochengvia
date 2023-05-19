@@ -1,17 +1,17 @@
 # 欢迎 !
 
 ## 声明
-开源项目遵循MIT协议，Panuon开源组织不对这些项目担负任何责任。因代码漏洞、以及在非法用途上使用等造成的后果，由开发者自行承担。  
-用于商业用途时，无需向Panuon开源组织付费。"Panuon"商标及Logo属于上海坂悦计算机网络有限公司所有。  
+开源项目遵循MIT或Apache2.0开源协议，PanuonGroup不对这些项目担负任何责任，也不限制是否在商业用途上使用。但因代码漏洞、以及在非法用途上使用等造成的后果，由开发者自行承担。  
+请注意，"Panuon"是上海坂悦计算机网络有限公司的注册商标，请勿在专利或软著中包含开源项目的源代码。  
 
-## 欢迎加入Panuon.UI.Silver群聊！
+## 欢迎加入Panuon开发者社区！
 社区仍在建设中。可以使用表情包，可以闲聊，也可以推广自己的开源作品，但禁止在群内发送涉及政治敏感、非法信息、广告或令人反感的文本或图片。  
 QQ群：718778191
 
 ## Panuon.WPF.UI现已上线！
 
 ### Panuon.WPF.UI
-https://github.com/PanuonGroup/Panuon.UI.Silver  
+https://github.com/PanuonGroup/Panuon.WPF.UI  
 目前正在维护和更新的版本。此控件库提供了非常详细的细节自定义功能，如果你刚刚接触WPF，可能会遇到一些困难。如果你是WPF专家，它则会让你感到惊喜（比如丰富的自定义属性以及残缺的文档  
 如果想查看视频教程，欢迎关注我的bilibili账号：https://space.bilibili.com/319290241  
 
@@ -26,4 +26,5 @@ https://github.com/Mochengvia/PanuonUI.Silver
 失败的过渡版本，不建议你继续使用该版本；如果需要查看源代码，请进入1.x版本的项目中，并切换至2.0.0分支。  
 
 ### 2.2版本
-自 `2.2.20` 版本开始，控件库已改名为 `Panuon.WPF.UI` 。
+自 `2.2.20` 版本开始，控件库已更名为 `Panuon.WPF.UI` 。  
+https://github.com/PanuonGroup/Panuon.WPF.UI
