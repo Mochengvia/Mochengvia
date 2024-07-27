@@ -6,8 +6,10 @@
 
 ## 欢迎加入Panuon开发者社区！
 社区仍在建设中。可以使用表情包，可以闲聊，也可以推广自己的开源作品，但禁止在群内发送涉及政治敏感、非法信息、广告或令人反感的文本或图片。  
-【因QQ群被莫名其妙永久停用和解散，现在使用QQ频道。】
-QQ频道：https://pd.qq.com/s/fpap7qj2y
+【旧QQ群被莫名其妙永久停用和解散，现已重建。】
+<p>
+    <img src="https://github.com/user-attachments/assets/578d1c7f-10ba-48fd-8913-50f40563ed6d" alt="Panuon开发者社区" width="150">
+</p>
 
 ## Panuon.WPF.UI现已上线！
 
